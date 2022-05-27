@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fahrzeughistorie
+title: Fahrzeug
 permalink: /object/
 ---
 
