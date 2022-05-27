@@ -1,6 +1,6 @@
 # Site settings
 theme: jekyll-theme-cayman
-title: BMW E3 2800
+title: BMW E36 320i
 author:
   name: Christoph Trautwein
   url: https://github.com/trautw
@@ -8,10 +8,10 @@ author:
   github_username:  trautw
   email: ch.trautwein@bmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hintergrund Infos zu meinem BMW E3 2800
+  Hintergrund Infos zu meinem BMW E36 320i
 tagline: > # this means to ignore newlines until "baseurl:"
-  Hintergrund Infos zu meinem BMW E3 2800
-baseurl: "/BMW-E3-2800" # the subpath of your site, e.g. /blog/
+  Hintergrund Infos zu meinem BMW E36 320i
+baseurl: "/BMW-E36-320i" # the subpath of your site, e.g. /blog/
 url: "https://trautw.github.io" # the base hostname & protocol for your site
 
 # Build Settings
