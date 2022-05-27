@@ -16,7 +16,6 @@ overview: true
 * Motorcode: 20 6 S3 (M52 B20)
 * Zylinder: 6
 * Hubraum: 1991 cm³
-* Motornummer: 
 * Sonderausstattung: 
 
 ## Geschichte
