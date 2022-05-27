@@ -4,7 +4,14 @@ title: Fahrzeughistorie
 permalink: /object/
 ---
 
-Sonderausstattung:
+# Historie
+
+### 26.05.2022 Halterwechsel
+
+### 21.08.1995 Erstzulassung
+
+
+# Sonderausstattung:
 - 214	Aut.stabil.-control+traktion(asc+t)
 - 240	Lederlenkrad
 - 243	Airbag Fuer Beifahrer
@@ -29,7 +36,3 @@ Sonderausstattung:
 - 704	M Sportfahrwerk
 - 801	Deutschland-ausfuehrung
 - 818	Batteriehauptschalter
-
-### 26.05.2022 Halterwechsel
-
-### 21.08.1995 Erstzulassung
