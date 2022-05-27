@@ -3,7 +3,7 @@ layout: default
 overview: true
 ---
 
-![in Halle](pictures/inscheune.jpg?raw=true)
+![in Halle](pictures/title_image.jpg?raw=true)
 
 ## Technische Daten
 * Typ: 320i Cabrio
