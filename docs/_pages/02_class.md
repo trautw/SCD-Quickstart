@@ -4,8 +4,9 @@ title: Modellhistorie
 permalink: /class/
 ---
 
-* [Technische Daten](https://de.wikipedia.org/wiki/BMW_E36#Motoren)
+* [Technische Daten](https://de.wikipedia.org/wiki/BMW_E36#Ottomotoren)
 * Bestand: 
 
-* [Wikipedia](https://de.wikipedia.org/wiki/BMW_E36)
+* [Modell](https://de.wikipedia.org/wiki/BMW_E36)
+* [Motor](https://de.wikipedia.org/wiki/BMW_M52)
 
