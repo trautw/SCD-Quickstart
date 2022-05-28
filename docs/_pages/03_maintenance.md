@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 28.05.2022 Antennenfuß Dichtung erneuert
+
 ### 28.03.2022 ATU
 Kurbelgehäuse Entlüftung erneuert EUR409,23
 188832km
