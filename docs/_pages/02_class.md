@@ -5,9 +5,10 @@ permalink: /class/
 ---
 
 # Tests
-* [ADAC](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/bmw/3er-reihe/e36/987385/#allgemeine-daten)
+* [ADAC 3er](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/bmw/3er-reihe/e36/981479/)
 
 # Daten
+* [ADAC](https://www.adac.de/rund-ums-fahrzeug/autokatalog/marken-modelle/bmw/3er-reihe/e36/987385/#technische-daten)
 * [Modell](https://de.wikipedia.org/wiki/BMW_E36)
 * [Motor](https://de.wikipedia.org/wiki/BMW_M52)
 
