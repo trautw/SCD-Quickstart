@@ -19,8 +19,8 @@ overview: true
 * Zylinder: 6
 * Hubraum: 1991 cm³
 * Leistung: 110kW/5900Umin
-* Getriebe: Automatik
 * Drehmoment: 190Nm/4200Umin
+* Getriebe: Automatik
 * Verbrauch: 10,3l/100km Super
 * Höchstgeschwindigkeit: 207km/h
 * Leergewicht: 1515kg
