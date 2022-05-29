@@ -20,7 +20,7 @@ overview: true
 * Hubraum: 1991 cm³
 * Leistung: 110kW/5900Umin
 * Drehmoment: 190Nm/4200Umin
-* Verbrauch: 9l/100km Super
+* Verbrauch: 10,3l/100km Super
 * Höchstgeschwindigkeit: 207km/h
 * Leergewicht: 1515kg
 
