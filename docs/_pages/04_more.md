@@ -21,6 +21,7 @@ permalink: /more/
 ### Liebhaber
 
 ### Infos
+[Auto Motor Sport](https://www.auto-motor-und-sport.de/oldtimer/bmw-3er-e36-youngtimer-kaufen-staerken-schwaechen/)
 
 ### Geschichte
 
