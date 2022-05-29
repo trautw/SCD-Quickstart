@@ -29,6 +29,7 @@ permalink: /more/
 ### Diebstähle in Hamburg
 
 ## Reparaturanleitung
+* [Schrauberhandbuch](https://www.amazon.de/gp/product/3958431453)
 
 ### Fahrwerk
 
