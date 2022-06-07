@@ -6,6 +6,8 @@ permalink: /maintenance/
 
 ### 07.06.2022 Windschott montiert
 
+### 05.06.2022 Reifendruck
+
 ### 04.06.2022 Ventildeckeldichtung erneuert
 
 ### 04.06.2022 Dämpfer Motorhaube links ersetzt
