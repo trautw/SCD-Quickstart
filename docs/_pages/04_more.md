@@ -8,6 +8,7 @@ permalink: /more/
 * [Leebmann24](https://www.leebmann24.de/bmw-ersatzteile/view/ogindex/?series=e36&typ=bj41)
 
 ### Wartung
+* [Tutorials](https://www.youtube.com/playlist?list=PLpDV-3wvYIXzNfSgpimQHzeJ7gBm-O3DO)
 * [Verdeck](https://www.moskopp.com/download/tutorials-howtos?download=11:verdeckkompendium)
 
 ### Teilekataloge
