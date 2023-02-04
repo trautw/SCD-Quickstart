@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 04.02.2023 Marderschreck montiert
+
+### 01.2023 Nebelscheinwerfer ersetzt
+
 ### 31.07.2022 Aschenbecher Einsatz ersetzt
 
 ### 31.07.2022 Heckscheibe poliert
