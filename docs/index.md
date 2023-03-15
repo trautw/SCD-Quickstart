@@ -26,7 +26,6 @@ overview: true
 * Höchstgeschwindigkeit: 207km/h
 * Leergewicht: 1515kg
 
-
 ## Geschichte
 * 26.05.2022 Halterwechsel
 * 21.08.1995 Erstzulassung
