@@ -15,7 +15,7 @@ overview: true
 * No high heels. No Sneekers. I started with gymnastics shoes.
 
 ## Preparation
-* Be prepared to meet peaple and have fun.
+* Be prepared to meet people and have fun.
 
 # Improving
 ## Do's and dont's
@@ -37,7 +37,7 @@ overview: true
 * Take part at training sessions
 
 ## Dressing
-* When wearing a kilt wear a white shirt and jacket as well
+* If wearing a kilt wear a white shirt and jacket
 
 # Becoming a teacher
 
