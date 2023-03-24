@@ -25,12 +25,12 @@ overview: true
 * A kilt is ok but not a must
 
 ## Preparation
-* Having a look at the dances beforehand helps. Learn diagrams and cribs.
+* Have a look at the dances beforehand. Learn diagrams and cribs.
 
 # First Ball
 
 ## Do's and dont's
-* Do not dace at a ball as a beginner
+* Do not dance at a ball as a beginner
 
 ## Preparation
 * Try to remember the dances
