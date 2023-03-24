@@ -9,7 +9,7 @@ overview: true
 
 ## Do's and dont's
 * Be open minded. The group will help you. They will tell you when to join and when it's better to watch. 
-* Don't ask your neigbour/partner for help. Raise your arm. It is absolutely perfect to ask every question.
+* Don't ask your neigbour/partner for help. Raise your arm. It is absolutely perfect to ask any question. Really.
 
 ## Dressing
 * No high heels. No Sneekers. I started with gymnastics shoes.
@@ -26,5 +26,10 @@ overview: true
 
 # First Ball
 
-# Links
+# FAQ
+* [Am I beginner/intermediate/advanced ?]()
 
+# Links
+* [Event in Germany](http://www.celtic-circle.de/events.html)
+* [Scottish Country Dancing Germany](https://www.scd-germany.de/de/)
+* 
