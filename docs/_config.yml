@@ -8,9 +8,9 @@ author:
   github_username:  trautw
   email: ch.trautwein@bmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hintergrund Infos zu meinem BMW E36 320i
+  Quickstart Scottish Country Dancing
 tagline: > # this means to ignore newlines until "baseurl:"
-  Hintergrund Infos zu meinem BMW E36 320i
+  Scottish Country Dancing Quickstart
 baseurl: "/SCD-Quickstart" # the subpath of your site, e.g. /blog/
 url: "https://trautw.github.io" # the base hostname & protocol for your site
 
