@@ -3,29 +3,21 @@ layout: default
 overview: true
 ---
 
-![in Halle](pictures/title_image.jpg?raw=true)
+![nice_pic](pictures/title_image.jpg?raw=true)
+
+# First visit
+## Do's and dont's
+* Be open minded. The group will help you. They will tell you when to join and when it's better to watch. 
+* Don't ask your neigbour/partner for help. Raise your arm. It is absolutely perfect to ask every question.
+## Dressing
+* No high heels. No Sneekers. I started with gymnastics shoes.
+## Preparation
+* Be prepared to meet peaple and have fun.
+
+# Improving
 
 
-## Technische Daten
-* Typ: 320i Cabrio
-* Code/Type: E36 (C) / BJ41
-* HSN/TSN: 0005 552
-* Baujahr: 1995
-* Produktionsdatum: 27.05.1995
-* Erstzulassung: 21.08.1995
-* Farbe: Montrealblau metallic (Farbcode 297)
-* Polster: Leder Montana/casual/blau-violett (P7MA)
-* Fahrgestellnummer: WBABJ41000ER25616
-* Motorcode: 20 6 S3 (M52 B20)
-* Zylinder: 6
-* Hubraum: 1991 cm³
-* Leistung: 110kW/5900Umin
-* Drehmoment: 190Nm/4200Umin
-* Getriebe: Automatik
-* Verbrauch: 10,3l/100km Super
-* Höchstgeschwindigkeit: 207km/h
-* Leergewicht: 1515kg
+# First Ball
 
-## Geschichte
-* 26.05.2022 Halterwechsel
-* 21.08.1995 Erstzulassung
+# Links
+
