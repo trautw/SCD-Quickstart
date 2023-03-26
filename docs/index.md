@@ -31,6 +31,7 @@ overview: true
 
 ## Do's and dont's
 * Do not dance at a ball as a beginner
+* Take a look at the [Ball Etiquette](https://www.scd-hamburg.de/scd-h/Ball-Etiquette_Draft_02.pdf)
 
 ## Preparation
 * Try to remember the dances
