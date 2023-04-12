@@ -5,6 +5,14 @@ overview: true
 
 ![nice_pic](pictures/title_image.jpg?raw=true)
 
+# Community
+## Hamburg
+https://www.scd-hamburg.de/
+## Germany
+https://www.scd-germany.de/de/
+## World
+https://rscds.org/
+
 # First visit
 
 ## Do's and dont's
@@ -16,11 +24,12 @@ overview: true
 
 ## Preparation
 * Be prepared to meet people and have fun.
+* Learn orientation in a typical set https://dancingmasters.com/dances-in-longways-sets/
 
 # Improving
 ## Do's and dont's
 
-## Dresssing
+## Dressing
 * [Shoes](https://www.jamessenior.co.uk/)
 * A kilt is ok but not a must
 
@@ -41,7 +50,7 @@ overview: true
 * If wearing a kilt wear a white shirt and jacket
 
 # Becoming a teacher
-
+## Unit 2
 
 # FAQ
 * [Am I beginner/intermediate/advanced ?]()
